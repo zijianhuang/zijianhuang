@@ -1,7 +1,3 @@
-![Z's Stats](https://github-readme-stats.vercel.app/api?username=zijianhuang&theme=vue&show_icons=true&hide_border=true&count_private=false)
-![Steak](https://github-readme-streak-stats.herokuapp.com/?user=zijianhuang&theme=vue&hide_border=true)<br/>
-![Z's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zijianhuang&theme=vue&show_icons=true&hide_border=true&layout=compact)
-
 # Open Source Projects
 ## Active
 
@@ -47,3 +43,10 @@ Demos:
 * [Some Delphi 7 lib codes I wrote in 90s and early 2000s](https://github.com/zijianhuang/CommonDelphi)
 
 # [Showcase for Commercial Projects and Closed Source Projects](https://fonlow.com/zijianhuang/zijianhuangcv/ShowCase.htm)
+
+...
+
+# Statistics
+![Z's Stats](https://github-readme-stats.vercel.app/api?username=zijianhuang&theme=vue&show_icons=true&hide_border=true&count_private=false)
+![Steak](https://github-readme-streak-stats.herokuapp.com/?user=zijianhuang&theme=vue&hide_border=true)<br/>
+![Z's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zijianhuang&theme=vue&show_icons=true&hide_border=true&layout=compact)
