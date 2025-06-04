@@ -42,9 +42,14 @@ Demos:
 
 * [Some Delphi 7 lib codes I wrote in 90s and early 2000s](https://github.com/zijianhuang/CommonDelphi)
 
-# [Showcase for Commercial Projects and Closed Source Projects](https://fonlow.com/zijianhuang/zijianhuangcv/ShowCase.htm)
+# Showcase for Commercial Projects and Closed Source Projects
 
-...
+* [Eye Charts](https://visualacuity.info/) for checking distant vision and preventing myopia.
+* [Open Contacts](https://www.fonlow.com/opencontacts), flexible contact management.
+* [KP Typing Tutor and Typing Course Generator](https://www.fonlow.com/kptypingtutor)
+* [Poetry Management and Publishing](https://poetryappwiki.fonlow.org/wiki/Main_Page)
+* [More ...](https://fonlow.com/zijianhuang/zijianhuangcv/ShowCase.htm)
+
 
 # Statistics
 ![Z's Stats](https://github-readme-stats.vercel.app/api?username=zijianhuang&theme=vue&show_icons=true&hide_border=true&count_private=false)
