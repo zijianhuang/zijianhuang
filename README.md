@@ -12,6 +12,7 @@
 * [Helper functions for constructing unit testing and integration testing efficiently (FonlowTesting)](https://github.com/zijianhuang/FonlowTesting)
 * [TypeScriptProvider for .NET CodeDOM (TypeScriptCodeDOM)](https://github.com/zijianhuang/TypeScriptCodeDOM)
 * [Tools and Demo Based on Existing .NET JSON Schema Components](https://github.com/zijianhuang/JsonSchemaComponents)
+* [MailMerge.NET](https://github.com/zijianhuang/mailmerge.net)
 
 Demos:
 * [.NET Core Web projects to demonstrate WebApiClientGen](https://github.com/zijianhuang/DemoCoreWeb), with examples for vue, React, jQuery, Angular and MAUI.
