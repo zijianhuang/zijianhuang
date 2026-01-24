@@ -3,6 +3,7 @@
 
 * [Strongly Typed Client API Generators (webapiclientgen)](https://github.com/zijianhuang/webapiclientgen) generate strongly typed client APIs in C# .NET and in TypeScript for jQuery and Angular 2+ from ASP.NET (Core) Web API.
 * [Strongly Typed OpenAPI Client Generators (openapiclientgen)](https://github.com/zijianhuang/openapiclientgen) generate strongly typed C# and TypeScript client codes from Open API / Swagger definitions supporting jQuery, Angular, AXIOS, Fetch API, Aurelia and Angular Strictly Typed Forms.
+* [Angular Material Components Extensions](https://github.com/zijianhuang/nmce)
 * [Authentication libraries (AuthEF)](https://github.com/zijianhuang/AuthEF) for utilizing ASP.NET Identity and Entity Framework Core, neutral to database engines.
 
 ## Active and Infrequently Updated
