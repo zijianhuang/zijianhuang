@@ -12,15 +12,13 @@
 * [Command Line GUI .NET (cligui)](https://github.com/zijianhuang/cligui) includes a command line arguments parser library for constructing .NET console app with complex arguments. 
 * [Helper functions for constructing unit testing and integration testing efficiently (FonlowTesting)](https://github.com/zijianhuang/FonlowTesting)
 * [TypeScriptProvider for .NET CodeDOM (TypeScriptCodeDOM)](https://github.com/zijianhuang/TypeScriptCodeDOM)
-* [Tools and Demo Based on Existing .NET JSON Schema Components](https://github.com/zijianhuang/JsonSchemaComponents)
 * [MailMerge.NET](https://github.com/zijianhuang/mailmerge.net)
 
 Demos:
 * [.NET Core Web projects to demonstrate WebApiClientGen](https://github.com/zijianhuang/DemoCoreWeb), with examples for vue, React, jQuery, Angular and MAUI.
 * [Dealing with large integral numbers in JavaScript for integral types of ASP.NET Core Web API](https://github.com/zijianhuang/JsLargeIntegralDemo)
-* [Demo static Website generator for personal blog](https://github.com/zijianhuang/poets)
 * [Compare OpenApiClientGen with others](https://github.com/zijianhuang/OpenApiExamples)
-* [Utility and Demo of JsonToTable](https://zijianhuang.github.io/json2table/)
+* [Tools and Demo Based on Existing .NET JSON Schema Components](https://github.com/zijianhuang/JsonSchemaComponents)
 
 ## Obsolete But Still Useful for MS Windows
 
@@ -50,6 +48,8 @@ Demos:
 * [Open Contacts](https://www.fonlow.com/opencontacts), flexible contact management.
 * [KP Typing Tutor and Typing Course Generator](https://www.fonlow.com/kptypingtutor)
 * [Poetry Management and Publishing](https://poetryappwiki.fonlow.org/wiki/Main_Page)
+* [JsonToTable](https://zijianhuang.github.io/json2table/)
+* [Static Website generator for personal blog](https://github.com/zijianhuang/poets)
 * [More ...](https://fonlow.com/zijianhuang/zijianhuangcv/ShowCase.htm)
 
 
